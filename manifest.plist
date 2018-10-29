@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>192.168.3.166:4000/test/test.ipa</string>
+					<string>http://192.168.3.166:4000/test/test.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
